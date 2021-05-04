@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: yellow;
+}
+h1 {
+    color: white;
+    background-color: black;
+}
+h3 {
+    color: red;
+    background-color: blue;
+}
+input {
+    color: white;
+    background-color: black;
+}
+button {
+    color: blue;
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    transition-duration: 1s;
+}
+button:hover {
+    color: red;
+    background-color: blue;
+}
